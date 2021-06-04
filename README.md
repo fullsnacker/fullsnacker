@@ -1,8 +1,5 @@
 ### Hola soy [fullsnacker][website] 👋
 
-[![Website](https://img.shields.io/website?label=fullsnacker.github.io&style=for-the-badge&url=https%3A%2F%2Ffullsnacker.github.io)](https://fullsnacker.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fullsnacker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffullsnacker&screen_name=fullsnacker)
-
 ## Soy un desarrollador full stack de Argentina!!
 
 - 🌱 Estoy intentando ser uno de los mejores desarrolladores 🤣
