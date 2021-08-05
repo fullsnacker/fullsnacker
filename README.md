@@ -7,8 +7,6 @@
 - 🥅 2021 Goals: Cumplir con el desafio de 100 dias de codigo y contribuir con proyectos open source
 - ⚡ Me encanta el desarrollo de aplicaciones y videojuegos, asi como resolver problemas
 
-#### Actualmente me encuentro realizando el desafio de 100 dias del codigo!!! Enterate de mas [Aquí][100-days]
-
 ### Contactame:
 
 [<img align="left" alt="fullsnacker.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
