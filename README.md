@@ -1,13 +1,12 @@
-### Hola soy [fullsnacker][website] 👋
+### Hello, I'm [fullsnacker][website] 👋
 
-## Soy un desarrollador full stack de Argentina!!
+## I'm a full-stack software developer based in Argentina!!
 
-- 🌱 Estoy intentando ser uno de los mejores desarrolladores 🤣
-- 👯 Me encantaria aprender y ayudar a desarrolladores
-- 🥅 2021 Goals: Cumplir con el desafio de 100 dias de codigo y contribuir con proyectos open source
-- ⚡ Me encanta el desarrollo de aplicaciones y videojuegos, asi como resolver problemas
+- 🌱 Working hard to become a first class developer
+- 👯 I'd love to learn and help developers
+- ⚡ I love solving problems, app and game development
 
-### Contactame:
+### Contact me:
 
 [<img align="left" alt="fullsnacker.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="fullsnacker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,7 +15,7 @@
 
 <br />
 
-### Lenguajes y herramientas:
+### Frameworks and tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
