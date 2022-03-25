@@ -4,12 +4,12 @@
 <p align="center">
 <a href="https://fullsnacker.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white" alt="Website" /></a>&nbsp;
 <a href="https://twitter.com/fullsnacker"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/fullsnacker"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+<!--<a href="https://dev.to/fullsnacker"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;-->
 <a href="https://instagram.com/fullsnacker"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;  
 </p>
 <br />
 
-<p>Enthusiastic Software Developer since 2013 using JS, Angular and Java Spring Boot. Scrum & Agile inspired.</p>
+<p>Enthusiastic Software Developer since 2013. In a committed relationship with MERN stack.</p>
 <br />
 
 <!--
