@@ -9,8 +9,10 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Developer since 2013. In a committed relationship with MERN stack.</p>
-<br />
+<p>
+  <h3 align="center"><b>Enthusiastic Software Developer since 2013.</h3>
+  <h3 align="center"><b>Big fan of MERN stack.</h3>
+</p>
 
 <!--
 <h2 align="center">My favorite projects 💻</h2>
@@ -38,10 +40,6 @@
 <br />
 -->
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Buenos Aires/Argentina (GMT - 3)
-</p>
-<br />
 <p>In currently focusing on the <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2022</a>. Also learning (And creating projects on the way) about MERN stack. 🥳</p>
 
 :muscle: I’m aiming to create helpful documentation for beginner and advanced developers alike both in English And Spanish.<br />
@@ -50,8 +48,10 @@ Timezone: Buenos Aires/Argentina (GMT - 3)
 📸: I’m documenting my trip on Instagram and Twitter (Maybe someday Youtube too)<br />
 💬 Ask me about anything. I am happy to help.<br />
 :ghost: Fun fact: ... I studied Japanese, Game Development studies, and some bass guitar.<br />
-
 <br />
+<p align="center">
+  Timezone: Buenos Aires/Argentina (GMT - 3)
+</p>
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
