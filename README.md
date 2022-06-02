@@ -41,7 +41,7 @@
 :ghost: Trivia: ... Estudie Japones, Desarrollo de Videojuegos y algo de Bajo.<br />
 <br />
 <p align="center">
-  Timezone: Buenos Aires/Argentina (GMT - 3)
+  Zona Horaria: Buenos Aires/Argentina (GMT - 3)
 </p>
 <br />
 <p>
