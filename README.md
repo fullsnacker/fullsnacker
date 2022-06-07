@@ -68,6 +68,7 @@
 📕 **Ultimos Blogs**
 
 - [¿Qué es HTML, cómo se usa y con que se come?](https://dev.to/fullsnacker/que-es-html-como-se-usa-y-con-que-se-come-4cam)
+- [Anatomia de tags HTML](https://dev.to/fullsnacker/anatomia-de-tags-html-lp)
 
 ... [Ver Mas](https://dev.to/fullsnacker)
 
