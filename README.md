@@ -67,6 +67,7 @@
 
 📕 **Ultimos Blogs**
 
+- [Crea una app en react en 5 minutos] (https://dev.to/fullsnacker/crea-una-app-en-react-en-5-minutos-ick)
 - [¿Qué es HTML, cómo se usa y con que se come?](https://dev.to/fullsnacker/que-es-html-como-se-usa-y-con-que-se-come-4cam)
 - [Anatomia de tags HTML](https://dev.to/fullsnacker/anatomia-de-tags-html-lp)
 
