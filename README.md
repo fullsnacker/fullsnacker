@@ -18,12 +18,12 @@
 
 <p align="center">
   <a href="https://github.com/fullsnacker/corkboard">
-    <img width="400" src="https://raw.githubusercontent.com/fullsnacker/corkboard/master/assets/Screenshot.png" /> <br />  
+    <img width="400" src="https://i.postimg.cc/PJgkjKFq/Screenshot-from-2022-10-11-19-51-47.png" /> <br />  
   </a>
     
   <div align="center">
     
-  [Corkboard](https://github.com/fullsnacker/corkboard)
+  [MELI Challenge](https://meli-challenge-omega.vercel.app)
     
   </div>
     
