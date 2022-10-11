@@ -31,7 +31,7 @@
 <br />
     
 <h2 align="center">Sobre mi 😇</h2>
-<p>Actualmente estoy realizando el <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2022</a>. Ademas aprendiendo (Y creando en el camino) sobre el stack MERN. 🥳</p>
+<p>Actualmente estoy aprendiendo acerca de <a href="https://nextjs.org/">Next.js</a>.🥳</p>
 
 :muscle: Mi meta es crear documentación util para desarrolladores principantes (Y mas avanzados tambien) tanto en Español como en Ingles.<br />
 :eyes: Actualmente estoy aprendiendo Python.<br />
