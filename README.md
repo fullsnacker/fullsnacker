@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/fullsnacker/corkboard">
+  <a href="https://github.com/fullsnacker/meli-challenge">
     <img width="400" src="https://i.postimg.cc/PJgkjKFq/Screenshot-from-2022-10-11-19-51-47.png" /> <br />  
   </a>
     
