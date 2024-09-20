@@ -34,9 +34,9 @@
 <p>Actualmente estoy aprendiendo acerca de <a href="https://nextjs.org/">Next.js</a>.🥳</p>
 
 :muscle: Mi meta es crear documentación util para desarrolladores principantes (Y mas avanzados tambien) tanto en Español como en Ingles.<br />
-:eyes: Actualmente estoy aprendiendo Python.<br />
+:eyes: Actualmente estoy aprendiendo Next.js.<br />
 :raising_hand: Me gustaria colaborar en proyectos open source.<br />
-📸: Estoy documentando mi viaje en Instagram y Twitter (Quizas en algun momento agregue otros medios)<br />
+📸: Estoy documentando mi viaje en Instagram y X (Quizas en algun momento agregue otros medios)<br />
 💬 Preguntame lo que quieras!.<br />
 :ghost: Trivia: ... Estudie Japones, Desarrollo de Videojuegos y algo de Bajo.<br />
 <br />
